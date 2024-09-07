@@ -1,0 +1,16 @@
+[
+  {
+    "questions": [
+      "Where is the Eiffel Tower located?",
+      "In which city can you find the Eiffel Tower?"
+    ],
+    "answer": "The Eiffel Tower is located in Paris, France."
+  },
+  {
+    "questions": [
+      "Who developed the theory of relativity?",
+      "Which scientist is associated with the theory of relativity?"
+    ],
+    "answer": "Albert Einstein developed the theory of relativity."
+  }
+]
